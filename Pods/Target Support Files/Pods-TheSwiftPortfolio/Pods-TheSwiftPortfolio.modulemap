@@ -1,0 +1,6 @@
+framework module Pods_TheSwiftPortfolio {
+  umbrella header "Pods-TheSwiftPortfolio-umbrella.h"
+
+  export *
+  module * { export * }
+}
